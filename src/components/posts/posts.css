@@ -1,0 +1,25 @@
+img {
+    margin: 10px auto;
+    display: block;
+    width: 60%;
+    height: 150px;
+    border: none;
+}
+
+li {
+    list-style: none;
+}
+.posts {
+    text-align: center;
+}
+.btn-posts {
+    border-radius: 4px;
+
+    width:150px;
+    text-align: center;
+    padding: 8px 16px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+    transition: background-color 0.1s linear;        
+    background-color: rgb( 43, 153, 91 );
+    border: 1px solid rgb( 33, 126, 74 );
+}

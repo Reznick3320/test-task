@@ -1,0 +1,48 @@
+.bg_header {
+    position: relative;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .4);
+    margin-bottom: 15px;
+    padding: 15px 0 15px 0;
+    text-align: center;
+}
+
+button {
+    font-weight: 700;
+    margin: 10px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration:none; 
+    text-align:center; 
+    outline: none;
+    border:none; 
+}
+
+.btn-logIn {
+    width: 250px;
+    height: 62px;
+    padding: 17px;
+    background-color: #FF8000;
+}
+
+.btn-logOut{
+    padding:9px 46px; 
+    border-radius: 15px 5px 15px 5px; 
+    background-color:#000000; 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f7ea', endColorstr='#f4f7ea',GradientType=0 ); 
+    background-image: linear-gradient(top, #000000 0% ,#f4f7ea 100%);   
+    box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+}
+
+p {
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+span {
+    text-decoration: underline;
+    font-weight: 800;
+    color: #DE0505;
+
+}
